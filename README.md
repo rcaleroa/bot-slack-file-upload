@@ -5,7 +5,7 @@ Go program to upload files to specific channel in slack using slack bot
 
 1. Create an app in api.slack.com/apps </br>
 2. socket mode enabled in slack </br>
-3. add oauth scopes (permissions for writing and Reading from a slack channel) </br>
+3. add oauth scopes (writing and Reading permissions from a slack channel) </br>
 4 install to your workspace on slack </br>
 5. copy the slack bot user oauth token generated </br>
 6. get & copy your channel id from slack </br>
